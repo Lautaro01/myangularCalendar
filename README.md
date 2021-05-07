@@ -2,7 +2,7 @@
 
 Calendario/Agenda creado con Angular Framework v11 y moment.js, pensado para utilizar como componente.
 
-* *Componente en la Web/host por github🖥* - [Click Aqui](https://contabilid-app.web.app)
+* *Componente en la Web/host por github🖥* - [Click Aqui](https://lautaro01.github.io/myangularCalendar/)
 
 ## Informacion de la App 🚀
 
